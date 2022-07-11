@@ -1,0 +1,57 @@
+.places {
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 100%;
+
+    display: flex;
+    justify-content: left;
+    margin-left: 350px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.articles {
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.articles2 {
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 25%;
+    border: 1px solid #DDDDDD;
+    display: flex;
+    margin-left: 650px;
+    justify-content: center;
+    margin-top: 20px;
+    border: 1px solid #ff5a5f;
+    border-radius: 4px;
+    font-size: 17px;
+}
+.MyHome {
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    border: #DDDDDD;
+    margin-right: 50px;
+    margin-left: 150px;
+    border: 1px solid #ff5a5f;
+    border-radius: 4px;
+    font-size: 17px;
+}
+.TinyHouse {
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    border: #DDDDDD;
+    margin-right: 200px;
+    border: 1px solid #ff5a5f;
+    font-size: 17px;
+}

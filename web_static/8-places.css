@@ -1,0 +1,156 @@
+.places {
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    margin-left: 350px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.articles {
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.articles2 {
+    background-color: rgb(255, 255, 255);
+    height: 370px;
+    width: 25%;
+    border: 1px solid #DDDDDD;
+    display: flex;
+    margin-left: 650px;
+    justify-content: center;
+    margin-top: 350px;
+    border: 1px solid #ff5a5f;
+    border-radius: 4px;
+    font-size: 17px;
+}
+.MyHome {
+    display: flex;
+    justify-content: center;
+    height: 370px;
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    border: #DDDDDD;
+    margin-right: 50px;
+    margin-left: 150px;
+    border: 1px solid #ff5a5f;
+    border-radius: 4px;
+    font-size: 17px;
+}
+.TinyHouse {
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    height: 370px;
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    border: #DDDDDD;
+    margin-right: 200px;
+    border: 1px solid #ff5a5f;
+    font-size: 17px;
+}
+.pricebynight1 {
+    background-color: rgb(254, 255, 253);
+    color: #ff5a5f;
+    border: #ff5a5f 4px solid;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.pricebynight2 {
+    background-color: rgb(255, 255, 255);
+    color: #ff5a5f;
+    border: #ff5a5f 4px solid;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.pricebynight3 {
+    background-color: rgb(255, 255, 255);
+    color: #ff5a5f;
+    border: #ff5a5f 4px solid;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.pricebynight1 .precio1 {
+    line-height: 5px;
+    margin-left: 3px;
+}
+.pricebynight2 .precio2 {
+    line-height: 5px;
+    margin-left: 3px;
+}
+.pricebynight3 .precio3 {
+    line-height: 5px;
+    margin-left: 3px;
+}
+.Owner1 {
+    position: relative;
+    bottom: 620px;
+    left: 420px;
+}
+.Owner2 {
+    position: relative;
+    bottom: 650px;
+    left: 920px;
+}
+.Owner3 {
+    position: relative;
+    bottom: 250px;
+    left: 680px;
+}
+.Information1 {
+    position:relative;
+    bottom: 670px;
+    left: 420px;
+}
+.Information2 {
+    position:relative;
+    bottom: 790px;
+    left: 920px;
+}
+.Information3 {
+    position:relative;
+    bottom: 480px;
+    left: 680px;
+}
+.logos1-myhome {
+    position: relative;
+    background-repeat: no-repeat;
+    height: 100px;
+    bottom: 1150px;
+    left: 490px;
+    background-image: url('https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_group.png');
+}
+.logos2-myhome {
+    position: relative;
+    background-repeat: no-repeat;
+    height: 100px;
+    bottom: 1250px;
+    left: 590px;
+    background-image: url('https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bed.png');
+}
+.logos3-myhome {
+    position: relative;
+    background-repeat: no-repeat;
+    height: 100px;
+    bottom: 1250px;
+    left: 590px;
+    background-image: url('https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bath.png');
+}
+
